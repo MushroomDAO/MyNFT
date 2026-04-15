@@ -1,0 +1,31 @@
+Mycelium Protocol — MyNFT
+Copyright 2024-present MushroomDAO Contributors
+
+This product includes software developed by MushroomDAO
+(https://github.com/MushroomDAO).
+
+Licensed under the Apache License, Version 2.0.
+See LICENSE file for full terms.
+
+== Attribution Requirement (Apache 2.0 Section 4d) ==
+
+All redistributions and derivative works MUST include the following attribution:
+
+    Built on Mycelium Protocol by MushroomDAO (https://mushroom.cv)
+
+== Trademark Notice ==
+
+MushroomDAO, Mycelium Protocol, GToken, PNTs, and related names are trademarks
+of MushroomDAO. Forks must rebrand. See TRADEMARK.md for full policy.
+
+== Access Model ==
+
+  Code:     Apache 2.0 — free to use, modify, and distribute.
+  Network:  Accessing the live Mycelium Protocol network requires a GToken
+            ticket. The code is open; the network is gated.
+  Commercial: Contact HyperCapital (jason@aastar.io) for trademark and
+              network access for commercial purposes.
+
+== Contributor License Agreement ==
+
+All contributions require a signed CLA managed via cla-assistant.io.
