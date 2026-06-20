@@ -1,0 +1,57 @@
+[submodule "submodules/capability2-publishing/permissionless.js"]
+	path = submodules/capability2-publishing/permissionless.js
+	url = https://github.com/pimlicolabs/permissionless.js.git
+[submodule "submodules/capability2-publishing/openzeppelin-merkle-tree"]
+	path = submodules/capability2-publishing/openzeppelin-merkle-tree
+	url = https://github.com/OpenZeppelin/merkle-tree.git
+[submodule "submodules/capability2-publishing/hashlips-minting-dapp"]
+	path = submodules/capability2-publishing/hashlips-minting-dapp
+	url = https://github.com/HashLips/hashlips_nft_minting_dapp.git
+[submodule "submodules/capability2-publishing/poap-qr-kiosk"]
+	path = submodules/capability2-publishing/poap-qr-kiosk
+	url = https://github.com/poap-xyz/poap-qr-kiosk.git
+[submodule "submodules/capability2-publishing/poap-sdk"]
+	path = submodules/capability2-publishing/poap-sdk
+	url = https://github.com/poap-xyz/poap-sdk.git
+[submodule "submodules/capability2-publishing/pinata-ipfs"]
+	path = submodules/capability2-publishing/pinata-ipfs
+	url = https://github.com/PinataCloud/pinata.git
+[submodule "submodules/capability2-publishing/grammY-telegram"]
+	path = submodules/capability2-publishing/grammY-telegram
+	url = https://github.com/grammyjs/grammY.git
+[submodule "submodules/capability2-publishing/hashlips-art-engine"]
+	path = submodules/capability2-publishing/hashlips-art-engine
+	url = https://github.com/HashLips/hashlips_art_engine.git
+[submodule "submodules/capability3-verification/eas-contracts"]
+	path = submodules/capability3-verification/eas-contracts
+	url = https://github.com/ethereum-attestation-service/eas-contracts.git
+[submodule "submodules/capability3-verification/eas-sdk"]
+	path = submodules/capability3-verification/eas-sdk
+	url = https://github.com/ethereum-attestation-service/eas-sdk.git
+[submodule "submodules/capability3-verification/erc-8004-contracts"]
+	path = submodules/capability3-verification/erc-8004-contracts
+	url = https://github.com/erc-8004/erc-8004-contracts.git
+[submodule "submodules/capability3-verification/worldcoin-idkit"]
+	path = submodules/capability3-verification/worldcoin-idkit
+	url = https://github.com/worldcoin/idkit-js.git
+[submodule "submodules/capability3-verification/semaphore"]
+	path = submodules/capability3-verification/semaphore
+	url = https://github.com/semaphore-protocol/semaphore.git
+[submodule "submodules/capability3-verification/safe-smart-account"]
+	path = submodules/capability3-verification/safe-smart-account
+	url = https://github.com/safe-fndn/safe-smart-account.git
+[submodule "submodules/capability3-verification/scaffold-eth-2"]
+	path = submodules/capability3-verification/scaffold-eth-2
+	url = https://github.com/scaffold-eth/scaffold-eth-2.git
+[submodule "submodules/hardware/libhalo"]
+	path = submodules/hardware/libhalo
+	url = https://github.com/arx-research/libhalo.git
+[submodule "submodules/hardware/libhalo-example-pcsc"]
+	path = submodules/hardware/libhalo-example-pcsc
+	url = https://github.com/arx-research/libhalo-example-pcsc.git
+[submodule "submodules/hardware/poirl"]
+	path = submodules/hardware/poirl
+	url = https://github.com/arx-research/poirl.git
+[submodule "submodules/hardware/chiru-labs-PBT"]
+	path = submodules/hardware/chiru-labs-PBT
+	url = https://github.com/chiru-labs/PBT.git
